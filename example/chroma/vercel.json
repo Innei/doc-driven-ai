@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "build/client",
+  "rewrites": [
+    { "source": "/p/:hash", "destination": "/__spa-fallback.html" }
+  ]
+}

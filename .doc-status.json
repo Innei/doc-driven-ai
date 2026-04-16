@@ -1,0 +1,23 @@
+{
+  "project_code": "NEKOMIMI",
+  "created_at": "2026-04-16T11:54:00Z",
+  "updated_at": "2026-04-16T11:54:00Z",
+  "documents": {
+    "NEKOMIMI.md": {
+      "status": "pending",
+      "sections": {}
+    },
+    "NEKOMIMI-DESIGN.md": {
+      "status": "pending",
+      "sections": {}
+    },
+    "NEKOMIMI-DEV.md": {
+      "status": "pending",
+      "sections": {}
+    },
+    "NEKOMIMI-DATA.md": {
+      "status": "pending",
+      "sections": {}
+    }
+  }
+}
