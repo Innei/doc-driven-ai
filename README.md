@@ -27,7 +27,14 @@
 
 ## 快速开始
 
-### 1. 复制模板
+### 1. 获取模板
+
+```bash
+git clone https://github.com/Innei/doc-driven-ai.git
+cd doc-driven-ai
+```
+
+### 2. 复制模板
 
 ```bash
 cp docs/templates/PROJECT.md      ./MYAPP.md
@@ -37,7 +44,7 @@ cp docs/templates/PROJECT-DEV.md  ./MYAPP-DEV.md
 
 把 `MYAPP` 替换成你的项目代号。按需复制 `PROJECT-DATA.md` 和 `PROJECT-TOPIC.md`。
 
-### 2. 按顺序填空
+### 3. 按顺序填空
 
 **先写 `MYAPP.md`** — 不要急着定技术栈，先回答：
 - 这个产品要解决的核心问题是什么？现有方案哪里不够好？
@@ -55,7 +62,7 @@ cp docs/templates/PROJECT-DEV.md  ./MYAPP-DEV.md
 - 状态管理边界（哪些 store 持久化，哪些绝对不能？）
 - 数据结构的冻结条款
 
-### 3. 让 AI 开始工作
+### 4. 让 AI 开始工作
 
 把 `AGENTS.md` 放在仓库根目录。当你对 AI 说：
 
